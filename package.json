@@ -1,0 +1,13 @@
+{
+  "name": "prose-pro",
+  "version": "0.1",
+  "description": "A git-based writing application for prose",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "https://github.com/vritant24/ProsePro",
+  "devDependencies": {
+    "electron": "^2.0.0"
+  }
+}
